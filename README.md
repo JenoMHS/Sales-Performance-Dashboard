@@ -17,6 +17,5 @@ Public sales dataset containing order dates, products, regions, and revenue.
 - Revenue trends over time
 - Top-performing product categories
 - Regional performance comparison
-data/sales_data.csv
-Downloaded
+
 
