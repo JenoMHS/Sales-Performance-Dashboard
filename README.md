@@ -33,13 +33,13 @@ Dashboard Interaction **https://github.com/ritikbh193/Data-Analytics-with-Excel/
 
 # Process 
 
-Verify data for any missing values and anomalies, and sort out the same.
+Cleaned and verified data for missing values, anomalies, and consistency in format and type.
 
-Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables to answer key business questions and summarize insights.
 
-Created pivot tables according to the questions asked.
+Developed an interactive Excel dashboard, integrating multiple pivot tables with slicers for dynamic data exploration.
 
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+Enabled actionable insights through visualization and interactive reporting.
 
 # Dashboard
 
