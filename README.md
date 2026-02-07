@@ -29,7 +29,7 @@ Highest selling category?
 
 Percentage of Total Orders delivered
 
-Dashboard Interaction **https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png**
+Dashboard Interaction **[https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png](https://github.com/JenoMHS/Sales-Performance-Dashboard/blob/main/Dashboard_Image.png)**
 
 # Process 
 
