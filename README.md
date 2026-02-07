@@ -55,7 +55,7 @@ The adult age group (30-49 yrs) is max contributing (~50%) and buys the most pro
 
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-More than 90% of the products delivered
+More than 90% of the products delivered.
 
 # Final Conclusion
 
