@@ -37,7 +37,7 @@ Cleaned and verified data for missing values, anomalies, and consistency in form
 
 Created pivot tables to answer key business questions and summarize insights.
 
-Developed an interactive Excel dashboard, integrating multiple pivot tables with slicers for dynamic data exploration.
+Built data Model in Power BI & developed an interactive Excel dashboard, integrating multiple pivot tables with slicers for dynamic data exploration.
 
 Enabled actionable insights through visualization and interactive reporting.
 
