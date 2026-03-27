@@ -33,7 +33,7 @@ Dashboard Interaction **[https://github.com/ritikbh193/Data-Analytics-with-Excel
 
 # Process 
 
-Cleaned and verified data for missing values, anomalies, and consistency in format and type.
+Used SQL to clean and verify data for missing values, anomalies, and consistency in format and type.
 
 Created pivot tables to answer key business questions and summarize insights.
 
